@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "144485654311",
+    "project_id": "pruebastorage-806a0",
+    "storage_bucket": "pruebastorage-806a0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:144485654311:android:ab1f391a28ae4a07691302",
+        "android_client_info": {
+          "package_name": "com.dam.pruebastorage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "144485654311-r6chekd2sv0e531tc7nih1ni2i8aotbv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpv8Q49PDUrEpqh_i4A_w0XZshpJR2I8A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "144485654311-r6chekd2sv0e531tc7nih1ni2i8aotbv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
